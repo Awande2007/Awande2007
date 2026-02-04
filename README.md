@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi im Awande Ngobese👋
+Information Technology Student At Belgium Campus ITversity
 <!--
 **Awande2007/Awande2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
